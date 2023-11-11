@@ -14,8 +14,7 @@ This repository contains the code and resources for a supervised machine learnin
 - [Model Training](#model-training)
 - [Evaluation](#evaluation)
 - [Results](#results)
-- [Contributing](#contributing)
-- [License](#license)
+
 
 ## Introduction
 
@@ -82,19 +81,27 @@ Hypothesis testing , a statistical method used to make inferences about a popula
 
 Below is  general step-by-step guide on to perform hypothesis testing on a dataset like SeoulBikeData.csv:<br>
    <ol>
-    <li>  Define the Hypotheses: </li>
-    <li>  Choose a Significance Level (α): </li>
-    <li>  Select the Test: </li>
-    <li>  Collect and Clean Data: </li>
-    <li>  Perform the Test: </li>
-    <li>  Analyze the Results: </li>
-    <li>  Draw Conclusions: </li> 
+    <li>  Define the Hypotheses </li>
+    <li>  Choose a Significance Level (α)</li>
+    <li>  Select the Test </li>
+    <li>  Collect and Clean Data </li>
+    <li>  Perform the Test</li>
+    <li>  Analyze the Results </li>
+    <li>  Draw Conclusions </li> 
    </ol>
 
 
-
-
-
 ### Feature Enginerring & Data Pre-processing
+<ol>
+  <li>Handling Missing Values </li>
+<li> Handling Outliers </li>
+<li> Label Encoding </li>
+<li> Textual Data Preprocessing </li>
+<li> Feature Manipulation & Selection </li>
+  <li> Data Transformation </li>
+<li> Data Scaling </li>
+<li> Dimesionality Reduction </li>
+<li> Data Splitting </li>
+</ol>
 
 ### ML Model Impelmentation
