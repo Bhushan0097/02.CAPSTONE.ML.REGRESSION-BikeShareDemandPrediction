@@ -79,13 +79,15 @@ This involves examining the data to understand its distribution, central tendenc
 Hypothesis testing , a statistical method used to make inferences about a population based on a sample of data. To perform hypothesis testing on the 'SeoulBikeData.csv' dataset, we first  start with a null hypothesis (H0) and an alternative hypothesis (H1), then use statistical tests to determine if there is enough evidence to reject the null hypothesis in favor of the alternative hypothesis.
 
 Below is  general step-by-step guide on to perform hypothesis testing on a dataset like SeoulBikeData.csv:<br>
-    1. Define the Hypotheses:\
-    2. Choose a Significance Level (α):\
-    3. Select the Test:\
-    4. Collect and Clean Data:\
-    5. Perform the Test:\
-    6. Analyze the Results:\
-    7. Draw Conclusions:\
+   <ol>
+    <li>  Define the Hypotheses: <li>
+    <li>Choose a Significance Level (α): <li>
+    <li>Select the Test: <li>
+    <li>Collect and Clean Data: <li>
+    <li>Perform the Test: <li>
+    <li>Analyze the Results: <li>
+    <li>Draw Conclusions: </li> 
+   </ol>
 
 
 
