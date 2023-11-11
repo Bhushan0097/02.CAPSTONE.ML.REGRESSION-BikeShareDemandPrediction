@@ -54,13 +54,15 @@ The project is developed using Python and relies on the following libraries:
 
 ## Documentation
 
-The project involves the following steps:\
-    1. Data Cleaning and Preparation\
-    2. Exploratory Data Analysis\
-    3. Visualization and Insights\
-    4. Hypothesis Testing\
-    5. Feature Enginerring & Data Pre-processing\
-    6. ML Model Impelmentation
+The project involves the following steps: <br>
+<ol>
+  <li>  Data Cleaning and Preparation </li>
+  <li>  Exploratory Data Analysis </li>
+  <li>  Visualization and Insights </li>
+  <li>  Hypothesis Testing </li>
+  <li>  Feature Enginerring & Data Pre-processing </li>
+  <li>  ML Model Impelmentation </li>
+</ol>
 
 ### Data Cleaning and Preparation
 The first step in this project involves cleaning and preparing the data. This includes checking for missing data, removing duplicates, and converting data types. Some of the specific tasks involved in this step include:
@@ -81,12 +83,12 @@ Hypothesis testing , a statistical method used to make inferences about a popula
 Below is  general step-by-step guide on to perform hypothesis testing on a dataset like SeoulBikeData.csv:<br>
    <ol>
     <li>  Define the Hypotheses: </li>
-    <li>Choose a Significance Level (α): </li>
-    <li>Select the Test: </li>
-    <li>Collect and Clean Data: </li>
-    <li>Perform the Test: </li>
-    <li>Analyze the Results: </li>
-    <li>Draw Conclusions: </li> 
+    <li>  Choose a Significance Level (α): </li>
+    <li>  Select the Test: </li>
+    <li>  Collect and Clean Data: </li>
+    <li>  Perform the Test: </li>
+    <li>  Analyze the Results: </li>
+    <li>  Draw Conclusions: </li> 
    </ol>
 
 
