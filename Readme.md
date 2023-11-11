@@ -11,7 +11,7 @@ This repository contains the code and resources for a supervised machine learnin
 - [Introduction](#introduction)
 - [Dataset](#dataset)
 - [Dependencies](#dependencies)
-- [ML Model Training and Evaluation](#model-training)
+- [ML Model Training and Evaluation](#mL-Model-training-and-evaluation)
 
 - [Results](#results)
 
