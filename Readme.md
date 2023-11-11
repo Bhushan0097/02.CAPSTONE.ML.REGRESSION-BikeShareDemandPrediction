@@ -14,6 +14,7 @@ This repository contains the code and resources for a supervised machine learnin
 - [ML Model Training and Evaluation](#mL-Model-training-and-evaluation)
 
 - [Results](#results)
+- [Conclusion](#conclusion)
 
 
 ## Introduction
@@ -105,3 +106,12 @@ Below is  general step-by-step guide on to perform hypothesis testing on a datas
 </ol>
 
 ### ML Model Training and Evaluation
+
+### Result
+
+| First Header  | Second Header | First Header  | Second Header | Second Header |
+| ------------- | ------------- | ------------- | ------------- | ------------- |
+| Content Cell  | Content Cell  | Content Cell  | Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  | Content Cell  | Content Cell  | Content Cell  |
+
+### Conclusion
