@@ -11,8 +11,8 @@ This repository contains the code and resources for a supervised machine learnin
 - [Introduction](#introduction)
 - [Dataset](#dataset)
 - [Dependencies](#dependencies)
-- [Model Training](#model-training)
-- [Evaluation](#evaluation)
+- [ML Model Training and Evaluation](#model-training)
+
 - [Results](#results)
 
 
@@ -60,7 +60,7 @@ The project involves the following steps: <br>
   <li>  Visualization and Insights </li>
   <li>  Hypothesis Testing </li>
   <li>  Feature Enginerring & Data Pre-processing </li>
-  <li>  ML Model Impelmentation </li>
+  <li>  ML Model Training , Implementation and Evaluation </li>
 </ol>
 
 ### Data Cleaning and Preparation
@@ -104,4 +104,4 @@ Below is  general step-by-step guide on to perform hypothesis testing on a datas
 <li> Data Splitting </li>
 </ol>
 
-### ML Model Impelmentation
+### ML Model Training and Evaluation
