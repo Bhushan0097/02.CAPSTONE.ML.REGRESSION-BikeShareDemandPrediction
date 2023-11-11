@@ -85,7 +85,6 @@ Below is  general step-by-step guide on to perform hypothesis testing on a datas
     <li>  Define the Hypotheses </li>
     <li>  Choose a Significance Level (α)</li>
     <li>  Select the Test </li>
-    <li>  Collect and Clean Data </li>
     <li>  Perform the Test</li>
     <li>  Analyze the Results </li>
     <li>  Draw Conclusions </li> 
@@ -106,6 +105,13 @@ Below is  general step-by-step guide on to perform hypothesis testing on a datas
 </ol>
 
 ### ML Model Training and Evaluation
+The dependent variable  is **Rented Bike Count** is a contionus variable. Hence to Regression ML algorithms are used to train the model to predict the depedent variable. <br>
+Following are the ML algorithms on which the model is trained
+<ol> 
+<li> Ridge Regression (Logistic Regression + L2 Regularization ) </li>
+<li> Decision Tree Regression </li>
+<li> Random Forest Regression </li>
+</ol>
 
 ### Result
 
