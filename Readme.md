@@ -80,12 +80,12 @@ Hypothesis testing , a statistical method used to make inferences about a popula
 
 Below is  general step-by-step guide on to perform hypothesis testing on a dataset like SeoulBikeData.csv:<br>
     1. Define the Hypotheses:\
-    2. Choose a Significance Level (α):
-    3. Select the Test:
-    4. Collect and Clean Data:
-    5. Perform the Test:
-    6. Analyze the Results:
-    7. Draw Conclusions:
+    2. Choose a Significance Level (α):\
+    3. Select the Test:\
+    4. Collect and Clean Data:\
+    5. Perform the Test:\
+    6. Analyze the Results:\
+    7. Draw Conclusions:\
 
 
 
