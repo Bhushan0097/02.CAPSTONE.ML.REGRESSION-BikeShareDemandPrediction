@@ -11,8 +11,6 @@ This repository contains the code and resources for a supervised machine learnin
 - [Introduction](#introduction)
 - [Dataset](#dataset)
 - [Dependencies](#dependencies)
-- [Setup](#setup)
-- [Usage](#usage)
 - [Model Training](#model-training)
 - [Evaluation](#evaluation)
 - [Results](#results)
@@ -76,20 +74,23 @@ The first step in this project involves cleaning and preparing the data. This in
 The next step in the project is to conduct exploratory data analysis.
 This involves examining the data to understand its distribution, central tendencies, and correlations between variables.
 
-Some of the specific tasks involved in this step include:
+### Hypothesis Testing
 
-Examining the distribution of numerical variables
-Examining the relationship between variables
-Identifying patterns and trends in the data
-Identifying the factors that influence booking cancellations
-Visualization and Insights
-The final step in the project is to create visualizations and derive insights from the data.
-This involves creating graphs and charts to help understand the data and communicate the findings to others.
+Hypothesis testing , a statistical method used to make inferences about a population based on a sample of data. To perform hypothesis testing on the 'SeoulBikeData.csv' dataset, we first  start with a null hypothesis (H0) and an alternative hypothesis (H1), then use statistical tests to determine if there is enough evidence to reject the null hypothesis in favor of the alternative hypothesis.
 
-Some of the specific tasks involved in this step include:
-1. Creating visualizations such as histograms, scatter plots, and bar charts
-2. Deriving insights from the data
-3. Communicating the findings to others
-4. The project concludes with a summary of the findings and recommendations for future analysis.
+Below is  general step-by-step guide on to perform hypothesis testing on a dataset like SeoulBikeData.csv:\ 
+    1. Define the Hypotheses:\
+    2. Choose a Significance Level (α):
+    3. Select the Test:
+    4. Collect and Clean Data:
+    5. Perform the Test:
+    6. Analyze the Results:
+    7. Draw Conclusions:
 
 
+
+
+
+### Feature Enginerring & Data Pre-processing
+
+### ML Model Impelmentation
