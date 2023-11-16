@@ -116,12 +116,12 @@ Following are the ML algorithms on which the model is trained
 
 ### Result
 
-| Model Name    | Train r2_score | Test r2_score  | MAE | MSE   |
+| Model Name    | Train r2_score | Test r2_score  | MAE |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
-Ridge Regression (Base Model)           | 0.5969834427027465 | 0.5611509471571063 | 282.97650291199943 | 132052.40508090574 |
-| Ridge Regression + GridSearchCV         | 0.5969815828381584 | 0.5612334108757271 | 282.9539718021544  | 132027.59123590542 |
-| Decision Tree Regression                |        1.0         | 0.8453401099843291 | 133.34609878310667 | 49702.985325697926 |
-| Decision Tree Regression + GridSearchCV | 0.9480705668434853 | 0.8723154222023835 | 125.69186170892704 | 41033.94031865554  |
-| Random Forest Regression                | 0.9881705009991666 | 0.9181275336765233 | 100.85899069434504 | 26311.320872154618 |
+Ridge Regression (Base Model)           | 0.5969834427027465 | 0.5611509471571063 | 282.97650291199943 | 
+| Ridge Regression + GridSearchCV         | 0.5969815828381584 | 0.5612334108757271 | 282.9539718021544  |
+| Decision Tree Regression                |        1.0         | 0.8453401099843291 | 133.34609878310667 | 
+| Decision Tree Regression + GridSearchCV | 0.9480705668434853 | 0.8723154222023835 | 125.69186170892704 | 
+| Random Forest Regression                | 0.9881705009991666 | 0.9181275336765233 | 100.85899069434504 |
 
 ### Conclusion
