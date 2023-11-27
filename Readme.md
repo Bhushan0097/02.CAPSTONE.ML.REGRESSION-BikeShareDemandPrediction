@@ -116,12 +116,25 @@ Following are the ML algorithms on which the model is trained
 
 ### Result
 
-| Model Name    | Train r2_score | Test r2_score  | MAE |
-| ------------- | ------------- | ------------- | ------------- | ------------- |
-Ridge Regression (Base Model)           | 0.5969834427027465 | 0.5611509471571063 | 282.97650291199943 | 
-| Ridge Regression + GridSearchCV         | 0.5969815828381584 | 0.5612334108757271 | 282.9539718021544  |
-| Decision Tree Regression                |        1.0         | 0.8453401099843291 | 133.34609878310667 | 
-| Decision Tree Regression + GridSearchCV | 0.9480705668434853 | 0.8723154222023835 | 125.69186170892704 | 
-| Random Forest Regression                | 0.9881705009991666 | 0.9181275336765233 | 100.85899069434504 |
+<table>
+    <thead>
+      <tr>
+        <th> <h4> <b> | Model Name  </b> </h4> </th>
+        <th> <h4> <b>| Train r2_score </b> </h4> </th>
+        <th> <h4> <b> | Test r2_score  </b> </h4> </th>
+          <th> <h4> <b>  | MAE | </b> </h4> </th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr> <td> <h5> | ------------- </h5></td> <td> <h5> | ------------- </h5></td> <td> <h5>  | ------------- </h5></td> <td> <h5>  | ------------- </h5></td> </tr>
+      <tr> <td> <h5> Ridge Regression (Base Model)  </h5></td> <td> <h5> | 0.5969834427027465 </h5> </td> <td> <h5>  | 0.5611509471571063 </h5></td> | 282.97650291199943 | </tr>
+      <tr> <td> <h5> | Ridge Regression + GridSearchCV    </h5></td> <td> <h5> | 0.5969815828381584 </h5></td> <td> <h5>  | 0.5612334108757271 </h5></td> <td> <h5>  | 282.9539718021544  | </h5></td> </tr>
+      <tr> <td> <h5>  | Decision Tree Regression   </h5></td> <td> <h5>  |        1.0          </h5></td> <td> <h5> | 0.8453401099843291 </h5></td> <td> <h5> | 133.34609878310667 |  </h5></td> </tr>
+      <tr> <td> <h5> | Decision Tree Regression + GridSearchCV  </h5></td> <td> <h5> | 0.9480705668434853 </h5></td> <td> <h5>  | 0.8723154222023835  </h5></td> <td> <h5> | 125.69186170892704 |  </h5></td> </tr>
+      <tr> <td> <h5> | Random Forest Regression  </h5></td> <td> <h5> | 0.9881705009991666 </h5></td> <td> <h5>  | 0.9181275336765233 </h5></td> <td> <h5>  | 100.85899069434504 | </h5></td> </tr>
+      <tr> <td> <h5> | Random Forest Regression  </h5></td> <td> <h5> | 0.9881705009991666 </h5></td> <td> <h5>  | 0.9181275336765233 </h5></td> <td> <h5>  | 100.85899069434504 | </h5></td> </tr>
+  <tbody>
+
+
 
 ### Conclusion
